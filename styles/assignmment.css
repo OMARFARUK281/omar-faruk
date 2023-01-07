@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Open+Sans&display=swap');
+
+ body{ 
+  font-family: 'Noto Serif', serif;
+  font-family: 'Open Sans', sans-serif;
+  
+  }
+  section {
+    margin-top: 80px;
+  }
+
+  .btnn-primary {
+    padding: 11px;
+    font-size: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    color: blue;
+    text-align: left;
+  }
+ 
+  .header {
+    display: flex;
+    background: url("../images/banner3.png");
+    background-repeat: no-repeat;
+    background-position: bottom, right, left;
+  }
+
+  .banner {
+    display: flex;
+    align-items: center;
+    padding-left: 280px;
+    padding-right: 280px;
+    padding-bottom: 100px;
+    padding-top: 150px;
+    width: 440px;
+  }
+  .banner-title {
+    font-size: 56px;
+    color: black;
+    text-align: left;
+  }
+  
+  main {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  
+.section-description {
+  color: 757575;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.about .info-title {
+  font-size: 20px;
+  color: 757575;
+}
+
+.skills-container {
+  display: flex;
+}
+h3.group-icon {
+  text-align: center;
+  padding: 10px;
+  font-size: 45px;
+}
+h4.sll-description {
+  color: #b5b5b5;
+}
+.skills {
+  width: 225px;
+  padding: 30px;
+  text-align: center;
+}
+
+.resume-content {
+  display: flex;
+  gap: 60px;
+}
+.groups-taitle {
+  padding: 76px;
+  margin: auto;
+}
+h1.resume-title {
+  font-size: 45px;
+}
+
+
+
+ul.popular {
+  list-style: none;
+}
+
+ul.popular li i {
+  color: #27ff00;
+}
+.contact {
+  width: 701px;
+  padding: 0px 219px;
+  background-repeat: no-repeat;
+  background: linear-gradient(92deg, #f90b0bd6, #15cce9a6);
+  border-radius: 10px;
+}
+h1.grou-color {
+  font-size: 37px;
+  padding: 20px;
+  width: 409px;
+  padding-top: 70px;
+  color: white;
+}
+button.iption{
+  padding: 11px;
+  font-size: 18px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  color: blue;
+  text-align: left;
+  margin-bottom: 37px;
+}
+.fbox {
+  float: left;
+  width: 406px;
+  padding-left: 130px;
+  margin-top: 100px;
+  color: white;
+}
+
+.maxbox {
+  float: right;
+  padding-right: 42px;
+  margin-top: 100px;
+  color: white;
+}
+h2.tbox {
+  font-size: 50px;
+}
+
+p.dbox {
+  font-size: 18px;
+}
+
+h2.submix {
+  font-size: 50px;
+}
+.container {
+  width: 941px;
+  margin-bottom: 120px;
+  padding-left: 58px;
+  padding-right: 25px;
+}
+footer#footer {
+  background: black;
+  display: flex;
+}
+
+input[type="text"] {
+  padding: 16px;
+  margin: 11px;
+  background: black;
+  border-radius: 5px;
+  border-top-color: white;
+  border-bottom-color: white;
+  border-left-color: white;
+  border-right-color: white;
+}
+button.primary{
+padding: 11px;
+  font-size: 18px;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  color: white;
+  text-align: left;
+  margin-bottom: 37px;
+}
+
